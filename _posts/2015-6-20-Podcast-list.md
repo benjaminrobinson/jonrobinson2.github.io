@@ -3,4 +3,6 @@ layout: post
 title: Podcast list
 ---
 
-- [ ] Listen to this podcast
+| Podcast        | Link           | Thought  |
+| ------------- |:-------------:| -----:|
+| Mystery Show - Gimlet  | http://gimletmedia.com/show/mystery-show/ | Jake Gylenhall Episode was great! |
