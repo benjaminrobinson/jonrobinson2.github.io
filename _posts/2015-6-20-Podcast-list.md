@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Podcast list
+title: Jonathan's Podcast Listening Extravaganza
 ---
 
 | **Podcast** | **Link** | **Episode** | **Rating** |
