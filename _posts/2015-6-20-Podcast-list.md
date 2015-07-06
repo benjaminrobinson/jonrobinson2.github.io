@@ -7,7 +7,7 @@ This is a table tracking my Podcast listening
 
 | **Podcast** | **Link** | **Episode** | **Rating** |
 | ------------    |:-----------------------------------------:|:-----------------------------------------:|:----------:|
-| Mystery Show  | http://gimletmedia.com/show/mystery-show/ |  http://gimletmedia.com/episode/case-5-source-code/ | 5  |
+| Mystery Show  | http://gimletmedia.com/show/mystery-show/ |  Source Code: http://bit.ly/1C2pR0N | 5  |
 | RadioLab  | http://www.radiolab.org/ |  http://www.radiolab.org/story/eye-sky/ |  5 |
 | Slate: The Gist  | http://www.slate.com/articles/podcasts/gist.html |   |   |
 | Slate: Podcast for America  | http://www.slate.com/articles/podcasts/podcast_for_america.html |   |   |
