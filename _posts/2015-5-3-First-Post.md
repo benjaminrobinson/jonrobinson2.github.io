@@ -1,5 +1,5 @@
 ---
 layout: post
-title: First things first.
+title: Welcome to my blog
 ---
-
+Firsts things first...
