@@ -195,8 +195,8 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 600;
+  font-size: 50px;
   letter-spacing: 1px;
 }
 
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $black;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
@@ -294,8 +294,8 @@ table {
 }
 table th {
     padding:21px 25px 22px 25px;
-    border-top:1px solid #fafafa;
-    border-bottom:1px solid #e0e0e0;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
 }
 table tr {
     padding-left:50px;
