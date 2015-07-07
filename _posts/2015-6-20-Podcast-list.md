@@ -18,5 +18,20 @@ This is a table tracking my Podcast listening
 | The Pollsters  | https://www.facebook.com/ThePollsters |   |   |
 | X Files Files  | http://www.feralaudio.com/show/x-files-files/ |   |   |
 | Criminal  | http://thisiscriminal.com/ |   |   |
-| Sawbones: A Marital Tour of Misguided Medicine  | http://www.maximumfun.org/shows/sawbones |   |   |
+| Sawbones  | http://www.maximumfun.org/shows/sawbones |   |   |
+| Death, Sex, and Money  | http://www.wnyc.org/shows/deathsexmoney/ |   |   |
+| The Political Junkie | http://krpoliticaljunkie.com/content/podcast/ |   |   |
+| On Being | http://www.onbeing.org/programs/latest |   |   |
+| You Made It Weird | http://nerdist.com/podcasts/you-made-it-weird-channel/ |   |   |
+| This Week in Parisitism | http://www.microbeworld.org/podcasts/this-week-in-parasitism |   |   |
+| Backstory | http://backstoryradio.org/how-to-listen/podcast-2/ |   |   |
+| BBC Thought for the Day | http://www.bbc.co.uk/programmes/p00szxv6/episodes/downloads |   |   |
+| Dinner Party Download | http://www.dinnerpartydownload.org/ |   |   |
+| Snap Judgement | http://snapjudgment.org/podcast |   |   |
+| Invisibilia | http://www.npr.org/podcasts/510307/invisibilia |   |   |
+| Spycast | http://www.spymuseum.org/multimedia/spycast/category/all/ |   |   |
+| Penn's Sunday School | http://pennsundayschool.com/episodes/ |   |   |
+| Dead Author's Podcast | http://www.deadauthorspodcast.org/ |   |   |
+| Kevin Pollak's Chat Show | http://www.earwolf.com/show/kevin-pollaks-chat-show/ |   |   |
+| TED Radio Hour | http://www.npr.org/podcasts/510298/ted-radio-hour |   |   |
 
