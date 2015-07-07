@@ -6,7 +6,7 @@ title: Jonathan's Podcast Listening Extravaganza
 This is a table tracking my Podcast listening 
 
 | **Podcast** | **Link** | **Episode** | **Rating** |
-| ------------    |:-----------------------------------------:|:-----------------------------------------:|:----------:|
+| ----------------|:-----------------------------------------:|:----------------------------------------------:|:----------:|
 | Mystery Show  | http://gimletmedia.com/show/mystery-show/ |  Source Code: http://bit.ly/1C2pR0N | 5  |
 | RadioLab  | http://www.radiolab.org/ | Eye in the Sky: http://bit.ly/1H5ZXVu |  5 |
 | Slate: The Gist  | http://www.slate.com/articles/podcasts/gist.html |   |   |
