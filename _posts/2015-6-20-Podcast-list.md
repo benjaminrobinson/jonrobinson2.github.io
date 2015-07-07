@@ -7,8 +7,19 @@ This is a table tracking my Podcast listening
 
 | **Podcast** | **Link** | **Episode** | **Rating** |
 | ----------------|:-----------------------------------------:|:----------------------------------------------:|:----------:|
-| Mystery Show  | http://gimletmedia.com/show/mystery-show/ |  Source Code: http://bit.ly/1C2pR0N | 5  |
+| Mystery Show  | http://gimletmedia.com/show/mystery-show/ |  Source Code: http://bit.ly/1C2pR0N | 4  |
 | RadioLab  | http://www.radiolab.org/ | Eye in the Sky: http://bit.ly/1H5ZXVu |  5 |
+| Reply All  |  http://gimletmedia.com/show/reply-all/ | Already Listen To |  5 |
+| StartUp  |  http://gimletmedia.com/show/startup/ | Already Listen To |  5 |
+| Freakonomics  |  http://freakonomics.com/category/freakonomics-radio/podcasts/ | Already Listen To |  4 |
+| StoryCorps  |  http://storycorps.org/podcast/ | Already Listen To |  3 |
+| Note To Self  | http://www.wnyc.org/story/rename-note-self-new-tech-city/  | Already Listen To |  4 |
+| Song Exploder  | http://songexploder.net/  | Already Listen To |  4 |
+| The Lowe Post | https://grantland.com/contributors/zach-lowe/#podcasts  | Already Listen To |  5 |
+| This American Life | http://www.thisamericanlife.org/podcast  | Already Listen To |  5 |
+| Planet Money | http://www.npr.org/sections/money/127413729/podcast/ | Already Listen To |  5 |
+| Serial | http://serialpodcast.org/ | Already Listen To |  5 |
+| Partially Derivative | http://www.partiallyderivative.com/ | Already Listen To |  4 |
 | Slate: The Gist  | http://www.slate.com/articles/podcasts/gist.html |   |   |
 | Slate: Podcast for America  | http://www.slate.com/articles/podcasts/podcast_for_america.html |   |   |
 | Slate: Hang Up and Listen  | http://www.slate.com/articles/podcasts/hang_up_and_listen.html |   |   |
