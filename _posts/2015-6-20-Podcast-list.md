@@ -57,7 +57,7 @@ This is a table tracking my Podcast listening
 | Meanwhile in the Future | http://gizmodo.com/welcome-to-meanwhile-in-the-future-1702467214 |   |   |
 | The Indoor Kids | http://theindoorkids.libsyn.com/ |   |   |
 | WTF With Marc Maron | http://www.wtfpod.com/ |   |   |
-| Negotiation Academy | http://www.slate.com/articles/podcasts/negotiation/2011/10/negotiation_academy_slate_s_course_on_the_art_of_haggling_.html |   |   |
+| Negotiation Academy | http://www.slate.com/articles/podcasts/negotiation.html |   |   |
 | Tiny Sense of Accomplishment | http://www.infiniteguest.org/tiny-sense/ |   |   |
 | Here's the THing | www.wnyc.org/shows/heresthething/ |   |   |
 
