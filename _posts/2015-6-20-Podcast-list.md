@@ -47,4 +47,17 @@ This is a table tracking my Podcast listening
 | TED Radio Hour | http://www.npr.org/podcasts/510298/ted-radio-hour |   |   |
 | PolicyViz | http://policyviz.com/the-policyviz-podcast/ |   |   |
 | TCGS After Party | http://tcgsafterparty.podbean.com/ |   |   |
+| Snap Judgement | http://snapjudgment.org/podcast |   |   |
+| Story Collider | http://storycollider.org/ |   |   |
+| State of the RE:Union | http://stateofthereunion.com/ |   |   |
+| Love & Radio | http://loveandradio.org/ |   |   |
+| The Truth | http://thetruthpodcast.com/The_Truth.html |   |   |
+| My Brother My Brother and Me | http://www.maximumfun.org/shows/my-brother-my-brother-and-me |   |   |
+| The Longest Shortest Time | http://longestshortesttime.com/ |   |   |
+| Meanwhile in the Future | http://gizmodo.com/welcome-to-meanwhile-in-the-future-1702467214 |   |   |
+| The Indoor Kids | http://theindoorkids.libsyn.com/ |   |   |
+| WTF With Marc Maron | http://www.wtfpod.com/ |   |   |
+| Negotiation Academy | http://www.slate.com/articles/podcasts/negotiation/2011/10/negotiation_academy_slate_s_course_on_the_art_of_haggling_.html |   |   |
+| Tiny Sense of Accomplishment | http://www.infiniteguest.org/tiny-sense/ |   |   |
+| Here's the THing | www.wnyc.org/shows/heresthething/ |   |   |
 
