@@ -45,4 +45,6 @@ This is a table tracking my Podcast listening
 | Dead Author's Podcast | http://www.deadauthorspodcast.org/ |   |   |
 | Kevin Pollak's Chat Show | http://www.earwolf.com/show/kevin-pollaks-chat-show/ |   |   |
 | TED Radio Hour | http://www.npr.org/podcasts/510298/ted-radio-hour |   |   |
+| PolicyViz | http://policyviz.com/the-policyviz-podcast/ |   |   |
+| TCGS After Party | http://tcgsafterparty.podbean.com/ |   |   |
 
