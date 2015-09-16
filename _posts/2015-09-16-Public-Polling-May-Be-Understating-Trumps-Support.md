@@ -2,7 +2,7 @@
 layout: post
 title: Public Polling Actually Understates Trump's Support Among Republicans
 ---
-##What's the Deal With Donald Trump?
+What's the deal with Trump support?
 
 ![Trump](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Donald_Trump_Laconia_Rally,_Laconia,_NH_4_by_Michael_Vadon_July_16_2015_21.jpg/1280px-Donald_Trump_Laconia_Rally,_Laconia,_NH_4_by_Michael_Vadon_July_16_2015_21.jpg)
 
