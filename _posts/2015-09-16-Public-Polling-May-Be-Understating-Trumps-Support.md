@@ -4,6 +4,8 @@ title: Public Polling Actually Understates Trump's Support Among Republicans
 ---
 ##What's the Deal With Donald Trump?
 
+![Trump](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Donald_Trump_Laconia_Rally,_Laconia,_NH_4_by_Michael_Vadon_July_16_2015_21.jpg/1280px-Donald_Trump_Laconia_Rally,_Laconia,_NH_4_by_Michael_Vadon_July_16_2015_21.jpg)
+
 Like many a Jewish public opinion researcher, this past weekend I found myself sitting at a Rosh Hashannah dinner talking with people about of all things, Donald Trump. Anticipating this I dug a bit into 'the Donald''s numbers in publicly available top-line polling data in an attempt to gain some semblance of a nugget.
 
 What I found was fascinating and sheds a valuable light on Donald Trumps candidacy and public opinion on controversial people and issues in general as we head into the 2nd Republican Primary Debate.
