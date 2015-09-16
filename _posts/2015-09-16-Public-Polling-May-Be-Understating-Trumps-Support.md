@@ -28,7 +28,7 @@ In the graph below, I plot the time series of Trump support among Republicans (a
 
 ![My helpful graphic](http://40.media.tumblr.com/081b17560f8be6f0484960525875867e/tumblr_nuqvfkFMtS1qaxxauo1_1280.png)
 
-Whether this means that the Donald is really up by 5 or 10 points is up for debate. For one, at this exact point in time the mode effect seems non-existent and has coincided with Trumps meteoric rise in the polls. Perhaps then it might be more accurate to say that public polls may 'have' understated Trumps support in the past. Either way the fact that some survey respondents are more reluctant to admit to liking Trump if they take a survey on the phone than over the internet is a fascinating kernel in a President election cycle that is just getting started.
+Whether this means that the Donald is really up by 5 or 10 points is up for debate. For one, at this exact point in time the mode effect seems non-existent and has coincided with Trumps meteoric rise in the polls. Perhaps then it might be more accurate to say that public polls may 'have' understated Trumps support in the past. Either way the fact that some survey respondents are more reluctant to admit to liking Trump if they take a survey on the phone than over the internet is a fascinating kernel in a Presidential election cycle that is just getting started.
 
 ##Gist + Errata
 
