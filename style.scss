@@ -287,25 +287,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-table {
-    border:#000000 1px solid;
-    border-radius:3px;
-}
-table th {
-    padding:21px 25px 22px 25px;
-    border-top:1px solid #000000;
-    border-bottom:1px solid #000000;
-    border-left:1px solid black;
-}
-table tr {
-    padding-left:50px;
-    padding-right:50px;
-    border: solid black;
-}
-table td {
-    padding:18px;
-    border-top: 1px solid #000000;
-    border-bottom:1px solid #000000;
-    border-left: 1px solid #000000;
-}
