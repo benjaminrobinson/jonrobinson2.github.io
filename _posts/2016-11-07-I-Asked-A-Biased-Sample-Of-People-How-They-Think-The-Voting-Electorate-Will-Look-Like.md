@@ -28,17 +28,21 @@ The next questions I asked were related to turnout of the biggest racial groups 
 
 ![Latinx finding](https://65.media.tumblr.com/8be8a15ea119040f3f89470006c9993a/tumblr_ogakmixeQK1qaxxauo4_1280.png)
 
-#Subgroups
+##Subgroups
 
 Given the pretty large majority of respondents who think Latinx turnout will increase, I won't delve into those groups, but will put out 4 graphs illustrating interesting subgroups, looking at responses by self reported political professionalism, race, and gender.
 
 #Political professionalism
+
+Political professionals are overall a bit more pessimistic about turnout overall and for African American voters than non political professionals.
 
 ![Political professionals](https://67.media.tumblr.com/b259adac6fcc6a6a10ea1ad7f49d27de/tumblr_ogakypI4ul1qaxxauo1_1280.png)
 
 ![Political professionals2](https://67.media.tumblr.com/8b056051574e65a7176ccd2233108082/tumblr_ogakypI4ul1qaxxauo3_1280.png)
 
 #Race
+
+
 
 ![Race](https://65.media.tumblr.com/164ee7899ae07865425cca63ddf12ec8/tumblr_ogakypI4ul1qaxxauo2_1280.png)
 
