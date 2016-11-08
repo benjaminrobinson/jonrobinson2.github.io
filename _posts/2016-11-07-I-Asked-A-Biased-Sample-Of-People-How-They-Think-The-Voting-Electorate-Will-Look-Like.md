@@ -6,11 +6,11 @@ title: I asked a biased sample of people what they think the electorate will loo
 
 At this moment it is impossible to validate this analysis, but I still wanted to share the responses I received. I asked anonymous coworkers, family members, journalists, academics, fellow political professionals, and the truly heterogeneous Twitter responses I received from lawyers, doctors, and the like.
 
-#The Data
+# The Data
 
 I asked four main questions as well as simple standard demographic questions as well as if they were a political professional. I am also able to segment out which link survey respondents took the survey on. A social media link, one internal to where I work (Catalist) and another I sent out to the progressive analytics and data community that I am a member of. 
 
-##Question 1
+## Question 1
 
 First I asked broadly about turnout levels to expect in 2016, anchoring respondents to information about 2008 and 2012 to get a good handle on potential levels of turnout, in proper context.
 
@@ -18,7 +18,7 @@ First I asked broadly about turnout levels to expect in 2016, anchoring responde
 
 As you can see, there was disagreement about overall turnout in 2012. No response received a majority of responses. A plurality of my survey respondents thought that turnout would be higher that 2012 but lower than 2008, but almost as many thought it would be lower than 2012. Granted, the categorical responses here aren't ideal, but clearly 'the crowd' doesn't think turnout will be at 2008 levels. This went against my own response, which was at 2008 levels, especially given reports of enthusiasm and self reported interest at those levels, according to summer surveys from [the Pew Research Center](http://www.people-press.org/2016/07/07/1-campaign-engagement-and-interest/).
 
-##Question 2-4
+## Question 2-4
 
 The next questions I asked were related to turnout of the biggest racial groups and their share relative to 2012. The graphs below are for White, African American, and Latinx voters. Broadly, my respondents see white turnout share increasing, replacing the Afriacn American share of voters. Unequivocally, respondents think that Latinx voters will make up a larger share of the electorate than 2012, but on average given the other two popular responses it is my guess that the expectations in the rise of Hispanic voting are not nearly as large as what early voting might suggest. If respondents on average thought that the black share would fall and White share would increase, this implies that the if the Latinx share would increase that it would not be large.
 
@@ -28,11 +28,11 @@ The next questions I asked were related to turnout of the biggest racial groups 
 
 ![Latinx finding](https://65.media.tumblr.com/8be8a15ea119040f3f89470006c9993a/tumblr_ogakmixeQK1qaxxauo4_1280.png)
 
-#Subgroups
+# Subgroups
 
 Given the pretty large majority of respondents who think Latinx turnout will increase, I won't delve into those groups, but will put out 4 graphs illustrating interesting subgroups, looking at responses by self reported political professionalism and gender. There are obviously many more groups so if you have a question about a group, ask and ye shall receive.
 
-##Political professionalism
+## Political professionalism
 
 Political professionals are overall a bit more pessimistic about turnout overall and for African American voters than non political professionals.
 
@@ -40,7 +40,7 @@ Political professionals are overall a bit more pessimistic about turnout overall
 
 ![Political professionals2](https://67.media.tumblr.com/8b056051574e65a7176ccd2233108082/tumblr_ogakypI4ul1qaxxauo3_1280.png)
 
-##Gender
+## Gender
 
 Women are more divided than men about what the white share of turnout will be compared to 2012 than men, who think that turnout overall will be lower compared to 2012 among whites.
 
