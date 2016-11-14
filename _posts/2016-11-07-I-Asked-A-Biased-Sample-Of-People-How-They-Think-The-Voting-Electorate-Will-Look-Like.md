@@ -50,6 +50,6 @@ Thoughts, comments, questions? Drop me a line [@jon_m_rob on Twitter](https://tw
 
 ## Addendum
 
-Apparetly PredictIt, the betting site offering odds on political events had a market made on turnout in terms of raw number of votes. The market doesn't seem to have been very liquid until Election Night sadly. Here is the 90 day trend.
+Apparently [PredictIt](https://www.predictit.org), the betting site offering odds on political events had a market made on turnout in terms of raw number of votes. The market doesn't seem to have been very liquid until Election Night sadly. Here is the 90 day trend.
 
 ![Betting markets](https://67.media.tumblr.com/9893e24c323618a65a0895c09992318d/tumblr_ogm7c1Vtrv1qaxxauo1_1280.png)
