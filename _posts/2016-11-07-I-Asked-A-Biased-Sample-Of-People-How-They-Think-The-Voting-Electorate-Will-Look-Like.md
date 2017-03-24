@@ -22,11 +22,11 @@ As you can see, there was disagreement about overall turnout in 2012. No respons
 
 The next questions I asked were related to turnout of the biggest racial groups and their share relative to 2012. The graphs below are for White, African American, and Latinx voters. Broadly, my respondents see white turnout share increasing, replacing the Afriacn American share of voters. Unequivocally, respondents think that Latinx voters will make up a larger share of the electorate than 2012, but on average given the other two popular responses it is my guess that the expectations in the rise of Hispanic voting are not nearly as large as what early voting might suggest. If respondents on average thought that the black share would fall and White share would increase, this implies that the if the Latinx share would increase that it would not be large.
 
-![White finding](https://67.media.tumblr.com/6c9cdb73dfbdeeeae8c98d14a83d1ef8/tumblr_ogakmixeQK1qaxxauo2_1280.png)
+![White finding](https://68.media.tumblr.com/6c9cdb73dfbdeeeae8c98d14a83d1ef8/tumblr_ogakmixeQK1qaxxauo2_1280.png)
 
-![Black finding](https://67.media.tumblr.com/2b02b742377da31e561427f848b8bfd2/tumblr_ogakmixeQK1qaxxauo3_1280.png)
+![Black finding](https://68.media.tumblr.com/2b02b742377da31e561427f848b8bfd2/tumblr_ogakmixeQK1qaxxauo3_1280.png)
 
-![Latinx finding](https://65.media.tumblr.com/8be8a15ea119040f3f89470006c9993a/tumblr_ogakmixeQK1qaxxauo4_1280.png)
+![Latinx finding](https://68.media.tumblr.com/8be8a15ea119040f3f89470006c9993a/tumblr_ogakmixeQK1qaxxauo4_1280.png)
 
 # Subgroups
 
@@ -36,15 +36,15 @@ Given the pretty large majority of respondents who think Latinx turnout will inc
 
 Political professionals are overall a bit more pessimistic about turnout overall and for African American voters than non political professionals.
 
-![Political professionals](https://67.media.tumblr.com/b259adac6fcc6a6a10ea1ad7f49d27de/tumblr_ogakypI4ul1qaxxauo1_1280.png)
+![Political professionals](https://68.media.tumblr.com/b259adac6fcc6a6a10ea1ad7f49d27de/tumblr_ogakypI4ul1qaxxauo1_1280.png)
 
-![Political professionals2](https://67.media.tumblr.com/8b056051574e65a7176ccd2233108082/tumblr_ogakypI4ul1qaxxauo3_1280.png)
+![Political professionals2](https://68.media.tumblr.com/8b056051574e65a7176ccd2233108082/tumblr_ogakypI4ul1qaxxauo3_1280.png)
 
 ## Gender
 
 Women are more divided than men about what the white share of turnout will be compared to 2012 than men, who think that turnout overall will be lower compared to 2012 among whites.
 
-![Gender](https://67.media.tumblr.com/0c826145f0f96aa9d3d6cd78167bda68/tumblr_ogakypI4ul1qaxxauo4_1280.png)
+![Gender](https://68.media.tumblr.com/0c826145f0f96aa9d3d6cd78167bda68/tumblr_ogakypI4ul1qaxxauo4_1280.png)
 
 Thoughts, comments, questions? Drop me a line [@jon_m_rob on Twitter](https://twitter.com/jon_m_rob) and jonathanmrobinson2 at gmail dot com.
 
@@ -52,7 +52,7 @@ Thoughts, comments, questions? Drop me a line [@jon_m_rob on Twitter](https://tw
 
 Apparently [PredictIt](https://www.predictit.org) , the betting site offering odds on political events had a market made on turnout in terms of raw number of votes. The market doesn't seem to have been very liquid until Election Night sadly. Here is the 90 day trend.
 
-![Betting markets](https://67.media.tumblr.com/9893e24c323618a65a0895c09992318d/tumblr_ogm7c1Vtrv1qaxxauo1_1280.png)
+![Betting markets](https://68.media.tumblr.com/9893e24c323618a65a0895c09992318d/tumblr_ogm7c1Vtrv1qaxxauo1_1280.png)
 
 We'll know soon enough if this indeed is true:
 
